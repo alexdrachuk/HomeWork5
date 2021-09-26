@@ -1,0 +1,37 @@
+#test {
+    color: brown;
+}
+
+.class {
+    color: rgb(85, 44, 14);
+}
+
+p {
+    color: crimson;
+}
+
+.AB p {
+    color: darksalmon;
+}
+li p {
+    color: darkgreen;
+}
+
+.A .B {
+    color: deepskyblue;
+}
+
+#red {
+    color: red;
+}
+
+#Y .Y {
+    color: yellow
+}
+#R .A .B {
+    color: violet;
+}
+
+.AB {
+    color: mediumvioletred;
+}
